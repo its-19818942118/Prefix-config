@@ -12,3 +12,4 @@ results might be diffrent depending on the color scheme of your terminal.
 * [Neofetch](https://github.com/dylanaraps/neofetch/)
 ### 4. Custom Prompt
 * [Starship Prompt](https://starship.rs/)
+### Should I make a config for color schemes and prompt?
